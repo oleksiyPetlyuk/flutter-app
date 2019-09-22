@@ -1,3 +1,3 @@
 # GHFlutter
 
-![](preview.gif)
+![](showcase.gif)
